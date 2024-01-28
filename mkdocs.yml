@@ -1,0 +1,9 @@
+site_name: MONAN
+site_url: https://joaomas.github.io/repotst4/
+nav:
+  - Home: index.md
+  - About: about.md
+  - Get Started: get.md
+  - Publications: publications.md
+  - Presentations: presentations.md
+theme: readthedocs
